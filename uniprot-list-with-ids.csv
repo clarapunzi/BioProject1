@@ -1,0 +1,49 @@
+UniprotAC	Status	Entry name	GeneName	ProteinName	GeneId
+P68133	reviewed	ACTS_HUMAN	ACTA1	Actin, alpha skeletal muscle (Alpha-actin-1) [Cleaved into: Actin, alpha skeletal muscle, intermediate form]	58
+P68032	reviewed	ACTC_HUMAN	ACTC1	Actin, alpha cardiac muscle 1 (Alpha-cardiac actin) [Cleaved into: Actin, alpha cardiac muscle 1, intermediate form]	70
+P08588	reviewed	ADRB1_HUMAN	ADRB1	Beta-1 adrenergic receptor (Beta-1 adrenoreceptor) (Beta-1 adrenoceptor)	153
+P07550	reviewed	ADRB2_HUMAN	ADRB2	Beta-2 adrenergic receptor (Beta-2 adrenoreceptor) (Beta-2 adrenoceptor)	154
+P25445	reviewed	TNR6_HUMAN	FAS	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	355
+P48023	reviewed	TNFL6_HUMAN	FASLG	Tumor necrosis factor ligand superfamily member 6 (Apoptosis antigen ligand) (APTL) (CD95 ligand) (CD95-L) (Fas antigen ligand) (Fas ligand) (FasL) (CD antigen CD178) [Cleaved into: Tumor necrosis factor ligand superfamily member 6, membrane form; Tumor necrosis factor ligand superfamily member 6, soluble form (Receptor-binding FasL ectodomain) (Soluble Fas ligand) (sFasL); ADAM10-processed FasL form (APL); FasL intracellular domain (FasL ICD) (SPPL2A-processed FasL form) (SPA)]	356
+Q13315	reviewed	ATM_HUMAN	ATM	Serine-protein kinase ATM (EC 2.7.11.1) (Ataxia telangiectasia mutated) (A-T mutated)	472
+P16671	reviewed	CD36_HUMAN	CD36	Platelet glycoprotein 4 (Fatty acid translocase) (FAT) (Glycoprotein IIIb) (GPIIIB) (Leukocyte differentiation antigen CD36) (PAS IV) (PAS-4) (Platelet collagen receptor) (Platelet glycoprotein IV) (GPIV) (Thrombospondin receptor) (CD antigen CD36)	948
+P09919	reviewed	CSF3_HUMAN	CSF3	Granulocyte colony-stimulating factor (G-CSF) (Pluripoietin) (Filgrastim) (Lenograstim)	1440
+P52952	reviewed	NKX25_HUMAN	NKX2-5	Homeobox protein Nkx-2.5 (Cardiac-specific homeobox) (Homeobox protein CSX) (Homeobox protein NK-2 homolog E)	1482
+P35222	reviewed	CTNB1_HUMAN	CTNNB1	Catenin beta-1 (Beta-catenin)	1499
+P11532	reviewed	DMD_HUMAN	DMD	Dystrophin	1756
+P00533	reviewed	EGFR_HUMAN	EGFR	Epidermal growth factor receptor (EC 2.7.10.1) (Proto-oncogene c-ErbB-1) (Receptor tyrosine-protein kinase erbB-1)	1956
+P49327	reviewed	FAS_HUMAN	FASN	Fatty acid synthase (EC 2.3.1.85) (Type I fatty acid synthase) [Includes: [Acyl-carrier-protein] S-acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] S-malonyltransferase (EC 2.3.1.39); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41); 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100); 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase (EC 1.3.1.39); Acyl-[acyl-carrier-protein] hydrolase (EC 3.1.2.14)]	2194
+P07203	reviewed	GPX1_HUMAN	GPX1	Glutathione peroxidase 1 (GPx-1) (GSHPx-1) (EC 1.11.1.9) (Cellular glutathione peroxidase)	2876
+P05556	reviewed	ITB1_HUMAN	ITGB1	Integrin beta-1 (Fibronectin receptor subunit beta) (Glycoprotein IIa) (GPIIA) (VLA-4 subunit beta) (CD antigen CD29)	3688
+P02545	reviewed	LMNA_HUMAN	LMNA	Prelamin-A/C [Cleaved into: Lamin-A/C (70 kDa lamin) (Renal carcinoma antigen NY-REN-32)]	4000
+P08235	reviewed	MCR_HUMAN	NR3C2	Mineralocorticoid receptor (MR) (Nuclear receptor subfamily 3 group C member 2)	4306
+P13533	reviewed	MYH6_HUMAN	MYH6	Myosin-6 (Myosin heavy chain 6) (Myosin heavy chain, cardiac muscle alpha isoform) (MyHC-alpha)	4624
+P12883	reviewed	MYH7_HUMAN	MYH7	Myosin-7 (Myosin heavy chain 7) (Myosin heavy chain slow isoform) (MyHC-slow) (Myosin heavy chain, cardiac muscle beta isoform) (MyHC-beta)	4625
+P01160	reviewed	ANF_HUMAN	NPPA	Natriuretic peptides A (Atrial natriuretic factor prohormone) (proANF) (Atrial natriuretic peptide prohormone) (preproANP) (proANP) (Atriopeptigen) (Cardiodilatin) (CDD) (preproCDD-ANF) [Cleaved into: Long-acting natriuretic peptide (LANP) (Long-acting natriuretic hormone) (LANH) (Pro atrial natriuretic factor 1-30) (proANF 1-30) (Pro atrial natriuretic peptide 1-30) (proANP 1-30); Vessel dilator (VSDL) (Pro atrial natriuretic factor 31-67) (proANF 31-67) (Pro atrial natriuretic peptide 31-67) (proANP 31-67); Kaliuretic peptide (KP) (Pro atrial natriuretic factor 79-98) (proANF 79-98) (Pro atrial natriuretic peptide 79-98) (proANP 79-98); Urodilatin (URO) (CDD 95-126) (CDD-ANP (95-126)) (Pro atrial natriuretic peptide 95-126) (proANP 95-126); Auriculin-C (Atrial natriuretic factor 1-33) (ANF 1-33); Auriculin-D (Atrial natriuretic factor 3-33) (ANF 3-33); Atrial natriuretic peptide (ANP) (Alpha-atrial natriuretic peptide) (Alpha-hANP) (Atrial natriuretic factor) (ANF) (CDD-ANF) (CDD-ANP (99-126)) (Cardionatrin) (Pro atrial natriuretic factor 99-126) (proANF 99-126); Auriculin-B (Atrial natriuretic factor 8-33) (ANF 8-33); Auriculin-A; Atriopeptin-1 (Atriopeptin I); Atriopeptin-2 (Atriopeptin II); Atriopeptin-3 (Atriopeptin III)]	4878
+P16860	reviewed	ANFB_HUMAN	NPPB	Natriuretic peptides B (Gamma-brain natriuretic peptide) [Cleaved into: Brain natriuretic peptide 32 (BNP(1-32)) (BNP-32); BNP(1-30); BNP(1-29); BNP(1-28); BNP(2-31); BNP(3-32); BNP(3-30); BNP(3-29); BNP(4-32); BNP(4-31); BNP(4-30); BNP(4-29); BNP(4-27); BNP(5-32); BNP(5-31); BNP(5-29)]	4879
+Q99959	reviewed	PKP2_HUMAN	PKP2	Plakophilin-2	5318
+P49768	reviewed	PSN1_HUMAN	PSEN1	Presenilin-1 (PS-1) (EC 3.4.23.-) (Protein S182) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	5663
+P49810	reviewed	PSN2_HUMAN	PSEN2	Presenilin-2 (PS-2) (EC 3.4.23.-) (AD3LP) (AD5) (E5-1) (STM-2) [Cleaved into: Presenilin-2 NTF subunit; Presenilin-2 CTF subunit]	5664
+P63000	reviewed	RAC1_HUMAN	RAC1	Ras-related C3 botulinum toxin substrate 1 (EC 3.6.5.2) (Cell migration-inducing gene 5 protein) (Ras-like protein TC25) (p21-Rac1)	5879
+P04049	reviewed	RAF1_HUMAN	RAF1	RAF proto-oncogene serine/threonine-protein kinase (EC 2.7.11.1) (Proto-oncogene c-RAF) (cRaf) (Raf-1)	5894
+P51606	reviewed	RENBP_HUMAN	RENBP	N-acylglucosamine 2-epimerase (AGE) (EC 5.1.3.8) (GlcNAc 2-epimerase) (N-acetyl-D-glucosamine 2-epimerase) (Renin-binding protein) (RnBP)	5973
+Q14524	reviewed	SCN5A_HUMAN	SCN5A	Sodium channel protein type 5 subunit alpha (Sodium channel protein cardiac muscle subunit alpha) (Sodium channel protein type V subunit alpha) (Voltage-gated sodium channel subunit alpha Nav1.5) (hH1)	6331
+P31040	reviewed	SDHA_HUMAN	SDHA	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1) (Flavoprotein subunit of complex II) (Fp)	6389
+Q16585	reviewed	SGCB_HUMAN	SGCB	Beta-sarcoglycan (Beta-SG) (43 kDa dystrophin-associated glycoprotein) (43DAG) (A3b)	6443
+P04278	reviewed	SHBG_HUMAN	SHBG	Sex hormone-binding globulin (SHBG) (Sex steroid-binding protein) (SBP) (Testis-specific androgen-binding protein) (ABP) (Testosterone-estradiol-binding globulin) (TeBG) (Testosterone-estrogen-binding globulin)	6462
+O76082	reviewed	S22A5_HUMAN	SLC22A5	Solute carrier family 22 member 5 (High-affinity sodium-dependent carnitine cotransporter) (Organic cation/carnitine transporter 2)	6584
+P04179	reviewed	SODM_HUMAN	SOD2	Superoxide dismutase [Mn], mitochondrial (EC 1.15.1.1)	6648
+Q9NQB0	reviewed	TF7L2_HUMAN	TCF7L2	Transcription factor 7-like 2 (HMG box transcription factor 4) (T-cell-specific transcription factor 4) (T-cell factor 4) (TCF-4) (hTCF-4)	6934
+P42166	reviewed	LAP2A_HUMAN	TMPO	Lamina-associated polypeptide 2, isoform alpha (Thymopoietin isoform alpha) (TP alpha) (Thymopoietin-related peptide isoform alpha) (TPRP isoform alpha) [Cleaved into: Thymopoietin (TP) (Splenin); Thymopentin (TP5)]	7112
+P19429	reviewed	TNNI3_HUMAN	TNNI3	Troponin I, cardiac muscle (Cardiac troponin I)	7137
+P45379	reviewed	TNNT2_HUMAN	TNNT2	Troponin T, cardiac muscle (TnTc) (Cardiac muscle troponin T) (cTnT)	7139
+Q8WZ42	reviewed	TITIN_HUMAN	TTN	Titin (EC 2.7.11.1) (Connectin) (Rhabdomyosarcoma antigen MU-RMS-40.14)	7273
+P25874	reviewed	UCP1_HUMAN	UCP1	Mitochondrial brown fat uncoupling protein 1 (UCP 1) (Solute carrier family 25 member 7) (Thermogenin)	7350
+Q8TCU4	reviewed	ALMS1_HUMAN	ALMS1	Alstrom syndrome protein 1	7840
+Q9Y2T1	reviewed	AXIN2_HUMAN	AXIN2	Axin-2 (Axin-like protein) (Axil) (Axis inhibition protein 2) (Conductin)	8313
+O60706	reviewed	ABCC9_HUMAN	ABCC9	ATP-binding cassette sub-family C member 9 (Sulfonylurea receptor 2)	10060
+Q9GZL7	reviewed	WDR12_HUMAN	WDR12	Ribosome biogenesis protein WDR12 (WD repeat-containing protein 12)	55759
+Q96S65	reviewed	CSRN1_HUMAN	CSRNP1	Cysteine/serine-rich nuclear protein 1 (CSRNP-1) (Axin-1 up-regulated gene 1 protein) (Protein URAX1) (TGF-beta-induced apoptosis protein 3) (TAIP-3)	64651
+Q8N0Z2	reviewed	ABRA_HUMAN	ABRA	Actin-binding Rho-activating protein (Striated muscle activator of Rho-dependent signaling) (STARS)	137735
+P57059	reviewed	SIK1_HUMAN	SIK1	Serine/threonine-protein kinase SIK1 (EC 2.7.11.1) (Salt-inducible kinase 1) (SIK-1) (Serine/threonine-protein kinase SNF1-like kinase 1) (Serine/threonine-protein kinase SNF1LK)	150094
+Q5BKX8	reviewed	CAVN4_HUMAN	CAVIN4	Caveolae-associated protein 4 (Muscle-related coiled-coil protein) (Muscle-restricted coiled-coil protein)	347273
